@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    --tw-bg-opacity: 1;
+    background: linear-gradient(black,rgb(47, 23, 23), rgb(75, 25, 25),rgb(160, 21, 21));
+}
